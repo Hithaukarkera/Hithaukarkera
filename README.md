@@ -19,7 +19,7 @@
 ### Connect with Me
 
 - 📫 Email: hithaumesh0708@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hitha-u-karkera-6a753121b)
+- 💼 LinkedIn: https://www.linkedin.com/in/hitha-u-karkera-6a753121b
 
 
 
