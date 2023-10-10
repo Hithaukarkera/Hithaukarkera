@@ -12,8 +12,7 @@
 
 ### Projects
 
-- **Malaria Detector** - [Project Link](project-link)
-- **Project Name** - [Project Link](project-link)
+- **Malaria Detector** - Developed a standalone script and a MATLAB app for detecting and diagnosing malaria from microscope images. The script leverages image processing techniques to identify malaria parasites in blood smear images.
 
 
 
