@@ -11,12 +11,12 @@
     <!-- About Me Section -->
     <h3>About Me</h3>
     <ul>
-        <li>🎓 Pursuing a degree in Artificial Intelligence and Machine Learning Engineering.</li>
-        <li>🤖 Passionate about developing intelligent systems and AI-powered applications.</li>
-        <li>💡 Exploring the limitless possibilities of machine learning and data analytics.</li>
-        <li>🌐 Committed to open-source projects for a brighter tech future.</li>
-        <li>📚 Lifelong learner with a curiosity for cutting-edge technologies.</li>
-        <li>🔍 Seeking opportunities to collaborate and contribute to AI and ML projects.</li>
+        🎓 Pursuing a degree in Artificial Intelligence and Machine Learning Engineering.</li>
+        🤖 Passionate about developing intelligent systems and AI-powered applications.</li>
+        💡 Exploring the limitless possibilities of machine learning and data analytics.</li>
+        🌐 Committed to open-source projects for a brighter tech future.</li>
+        📚 Lifelong learner with a curiosity for cutting-edge technologies.</li>
+        🔍 Seeking opportunities to collaborate and contribute to AI and ML projects.</li>
     </ul>
 
     <!-- Projects Section -->
