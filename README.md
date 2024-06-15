@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Hitha U Karkera!
 ## AIML Engineering Student | Passionate about Machine Learning Algorithms | Frontend Developer
 
-- 🎓 Pursuing a degree in Artificial Intelligence and Machine Learning Engineering.
+- 🎓 Artificial Intelligence and Machine Learning Engineer.
 - 🤖 Passionate about developing intelligent systems and AI-powered applications.
 - 💡 Exploring the limitless possibilities of machine learning and data analytics.
 - 🌐 Committed to open-source projects for a brighter tech future.
