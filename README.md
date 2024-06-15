@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="Oi6LNy6xTU9yhQ6udFUCbiR9agPpiU2DVCONIXLuIm0" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hitha U Karkera's GitHub README</title>
